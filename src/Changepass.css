@@ -1,0 +1,113 @@
+.changepass{
+    height:82vh;
+    display:flex;
+  
+}
+.changepass-name{
+    background-color: rgba(196, 196, 196, 0.21);
+    flex:0.3;
+    margin-top: 20vh;
+    margin-bottom: 5vh;
+    margin-right: 3vw;
+    margin-left: 8vw;
+    height: 50vh;
+    
+}
+.changepass-topup{
+    margin-top: -13vh; 
+}
+.changepass-nameoftop{
+    font-size:20px;
+    height: 5vh;
+    width:10vw;
+    margin-left:10vw;
+    margin-top: -6vh;
+}
+.changepass-namestyle{
+    height: 40vh;
+    margin-left: 3vw;
+    margin-top: 10vh;
+    justify-content:space-evenly;
+    font-size:30px;
+}
+.changepass-right{
+    margin-top:15vh;
+    margin-left:10vw;
+}
+.changepass-Categories{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+    text-decoration: none;
+    color:black;
+}
+.changepass-myorders{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.changepass-wishlist{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+    text-decoration: none;
+}
+.changepass-ratings{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.changepass-notification{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.changepass-logout{
+    padding-top: 5vh;
+    padding-bottom:1vh;
+}
+.changepass-right-textarea{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.changepass-Info{
+    font-size: 25px;
+    margin-bottom: 3vh;
+}
+.changepass-current{
+     margin-left: 3vh;
+     margin-top: -2vh;
+     height: 2.3vh;
+     width: 15vw;
+}
+.changepass-right-lower{
+    height: 7vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 3vh;
+}
+.changepass-btn-1 button{
+    height: 5vh;
+    width: 10vh;
+    transition: 0.2s;
+    margin-bottom: 0.5rem;
+    border: none;
+    border: 2px solid #463e3e;
+    background-color:rgba(255, 172, 137, 0.22); 
+}
+
+.changepass-btn-2 button{
+    height: 5vh;
+    width: 10vh;
+    margin-left:8vh;
+    transition: 0.2s;
+    margin-bottom: 0.5rem;
+    border: none;
+    border: 2px solid #463e3e;
+    background-color:rgba(255, 172, 137, 0.22); 
+}
+.changepass-btn-1 button:hover {
+    background-color: #fbf7f7;
+    color: white;
+  }
+  .changepass-btn-2 button:hover {
+    background-color: #fbf7f7;
+    color: white;
+  }

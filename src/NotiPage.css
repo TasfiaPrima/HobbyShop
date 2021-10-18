@@ -1,0 +1,93 @@
+.notipage{
+    height:82vh;
+    width:100vw;
+    display: flex;
+
+}
+.noti-name{
+    background-color: rgba(196, 196, 196, 0.21);
+    flex:0.3;
+    margin-top: 20vh;
+    margin-bottom: 5vh;
+    margin-right: 3vw;
+    margin-left: 8vw;
+    height: 50vh;
+}
+.noti-topup{
+    margin-top: -13vh; 
+}
+.noti-namestyle{
+    height: 40vh;
+    margin-left: 3vw;
+    margin-top: 8vh;
+    justify-content:space-evenly;
+    font-size:30px;
+    display: flex;
+    flex-direction: column;
+}
+.noti-logout{
+    margin-top:5vh;
+}
+.noti-Settings{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.noti-Categories{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+    text-decoration: none;
+    color:black;
+}
+
+.noti-myorders{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.noti-wishlist{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+    text-decoration: none;
+}
+.noti-ratings{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.noti-notification{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.noti-settings{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.noti-logout{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.noti-right{
+    width:5vw;
+    height: 5vh;
+    flex:0.7;
+    margin-left:3vw;
+    margin-top: 6vh;
+}
+.noti-header{
+    font-size:50px;
+    margin-bottom: 5vh;
+}
+.noti-body{
+    height:3vh;
+    padding-top: 2vh;
+    font-size:25px
+
+}
+.noti-body1{
+    padding-top: 20vh;
+    font-size:25px
+}
+.noti-image{
+    height:15vh;
+    width: 15vh;
+    margin-top:5vh;
+    margin-left:25vw;
+}

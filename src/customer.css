@@ -1,0 +1,151 @@
+.customer{
+    height:82vh;
+    display:flex;
+  
+}
+
+.customer-name{
+
+    background-color: rgba(196, 196, 196, 0.21);
+    flex:0.3;
+    margin-top: 20vh;
+    margin-bottom: 5vh;
+    margin-right: 3vw;
+    margin-left: 8vw;
+    height: 50vh;
+    
+    
+}
+.customer_content{
+    background-color: rgba(218, 216, 216, 0.21);
+    height:65vh;
+}
+
+.customer-card{
+    width:5vw;
+    height: 5vh;
+    flex:0.5;
+    margin-left:3vw;
+    margin-top: 6vh;
+    
+}
+.customer-nameoftop{
+    font-size:20px;
+    height: 5vh;
+    width:10vw;
+    margin-left:10vw;
+    margin-top: -6vh;
+    
+}
+.customer-title{
+    font-size:35px;
+  
+}
+.customer-body{
+    margin-top: 10vh;
+    font-size:3vh;
+    padding-top: 1vh;
+    padding-bottom: 2vh;
+    
+}
+.customer-info{
+    padding-top: 3vh;
+}
+.bton{
+    padding: 0.5rem;
+    border: none;
+    transition: 0.2s;
+    margin-bottom: 0.5rem;
+    border-radius: 3px;  
+}
+.customer-password button{
+    margin-top:  6vh;
+    height: 5vh;
+    width: 10vh;
+    transition: 0.2s;
+    margin-bottom: 0.5rem;
+    border: none;
+    border: 2px solid #463e3e;
+    background-color:rgba(255, 172, 137, 0.22); 
+}
+.customer-namestyle{
+    height: 40vh;
+    margin-left: 3vw;
+    margin-top: 10vh;
+    justify-content:space-evenly;
+    font-size:30px;
+    display: flex;
+    flex-direction: column;
+}
+.customer-Settings{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.customer-Categories{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+    text-decoration: none;
+    color:black;
+}
+.customer-myorders{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.customer-wishlist{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+    text-decoration: none;
+}
+.customer-ratings{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.customer-notification{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.customer-settings{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.customer-logout{
+    padding-top: 5vh;
+    padding-bottom:1vh;
+}
+.customer-right{
+    display: flex;
+}
+.customer-body{
+    width: 20vw;
+}
+.customer-avatar{
+    flex: 0.5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 3vw;
+}
+.customer-topup{
+    margin-top: -13vh; 
+}
+.customer-title{
+    margin-left: 4vw;
+}
+.customer-right{
+    margin-left: 4vw;
+}
+.customer-password-1 button{
+    margin-top: 9vh;
+    height: 5vh;
+    width: 10vh;
+    transition: 0.2s;
+    margin-bottom: 0.5rem;
+    border: none;
+    border: 2px solid #463e3e;
+    background-color:rgba(255, 172, 137, 0.22); 
+}
+.customer-password-1{
+    margin-top: 4vh;
+    margin-left: 4vw;
+}

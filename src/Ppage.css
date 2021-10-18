@@ -1,0 +1,97 @@
+.ppage{
+    height:82vh;
+    width:100vw;
+}
+.ppage-corner{
+    margin-left:3vw;
+}
+.ppage-header{
+    margin-left: 20vw;
+    font-size:38px;
+    margin-top:2vh;
+}
+.ppage-img{
+    
+    margin-top:4vh;
+    height: 15vh;
+    width: 15vh;
+}
+
+.ppage-cards{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content:center;
+}
+.ppage-left{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+   
+}
+.ppage-two{
+    width: 20vw;
+    padding-right: 10vw;
+    padding-top: 5vh;
+    padding-left:5vh;
+    
+}
+.ppage-three{
+    width: 28vw;
+    padding-right: 30vw;
+    padding-top: 5vh;
+}
+.ppage-text{
+    font-size:35px;
+    margin-bottom:2vh;
+}
+.ppage-taka{
+    font-size:25px; 
+    margin-bottom:2vh;
+}
+.ppage-three{
+    display: flex;
+    flex-direction: column;
+}
+.ppage-desc{
+    margin-top: 3vh;
+    font-size:20px;
+}
+.ppage-btn-1{
+    height:5vh;
+    margin-top: 4vh;
+    margin-left: 8vw;
+    margin-bottom: 1vh;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+.ppage-btn-btn{
+    height:4vh;
+    background-color: #EDDFDF;
+     outline: none;
+     border: none;
+     color: black;
+     padding: .5vw;
+}
+.ppage-btn-2{
+    height:5vh;
+    margin-left: 8vw;
+    margin-bottom: 1vh;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+.ppage-filter{
+    display:flex;
+   
+   
+}
+.ppage-map{
+
+    width: 80%;
+    height: 50vh;
+    overflow: scroll;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    scrollbar-color: #3690f6 #C2D2E4;
+    scrollbar-width: thin;
+}

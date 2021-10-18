@@ -1,0 +1,131 @@
+.checkout{
+    height:82vh;
+    display: flex;
+}
+.checkout-left{
+    
+    flex:0.7;
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+    margin-right: 3vw;
+    margin-left: 8vw;
+    height: 50vh;
+}
+.checkout-right{
+    background-color: rgba(255, 172, 137, 0.09);
+    flex:0.3;
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+    margin-right: 3vw;
+    
+    height: 55vh;
+}
+.checkout-words{
+    height: 40vh;
+    margin-left: 3vw;
+    margin-top: 10vh;
+    justify-content:space-evenly;
+    font-size:30px;
+}
+.checkout-items{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.checkout-subtotal{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.checkout-shipping{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.checkout-total{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.checkout-placeorder{
+    width:12vw;
+    height: 6vh;
+    margin-top:4vh;
+    padding-top:2vh;
+    padding-left:5vw;
+    background-color:rgba(241, 198, 68, 0.63);
+    
+}
+.checkout-contactdetailsfeild{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    
+    
+}
+.checkout-shippingaddressfeild{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    
+    
+}
+.checkout-contactdetails{
+    margin-left: 3vw;
+    
+    font-size:30px;
+}
+.checkout-contactdetailsbox{
+    margin-left: 3vw;
+    margin-top: 10vh;
+    font-size:30px;
+}
+.checkout-shippingaddress{
+    margin-left: 3vw;
+
+    font-size:30px;
+}
+.checkout-shippingaddressbox{
+    margin-left: 3vw;
+
+    font-size:30px;
+}
+.checkout-input{
+    width:40vw;
+    height:15vh;
+    background-color:rgba(196, 196, 196, 0.12);
+    font-size:2vh;
+    padding-left:1.5vw;
+    padding-top: 1.5vh;
+}
+.checkout-inputfeilds{
+  
+    height:40vh;
+    width:60vw;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.checkout-methodofpayment{
+    margin-left: 3vw;
+    margin-top: 10vh;
+    font-size:30px;
+}
+.checkout-radio{
+    display:flex;
+    flex-direction: column;
+}
+.checkout-lowerbox{
+    display:flex;
+    flex-direction: row;
+    margin-left: 3vw;
+    margin-top: 10vh;
+    font-size:30px;
+}
+.checkout-label{
+    height:5vh;
+    margin-left: 3vw;
+}
+.label{
+    margin-left: 1vw;
+}
+.checkout-label{
+    display: flex;
+    align-items: center;
+}

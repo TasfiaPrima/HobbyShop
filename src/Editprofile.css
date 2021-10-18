@@ -1,0 +1,144 @@
+.Editprofile {
+  height: 82vh;
+  display: flex;
+}
+.Editprofile-name {
+  background-color: rgba(196, 196, 196, 0.21);
+  flex: 0.3;
+  margin-top: 20vh;
+  margin-bottom: 5vh;
+  margin-right: 3vw;
+  margin-left: 8vw;
+  height: 50vh;
+}
+.Editprofile-topup {
+  margin-top: -13vh;
+}
+.Editprofile-nameoftop {
+  font-size: 20px;
+  height: 5vh;
+  width: 10vw;
+  margin-left: 10vw;
+  margin-top: -6vh;
+}
+.Editprofile-namestyle {
+  height: 40vh;
+  margin-left: 3vw;
+  margin-top: 10vh;
+  justify-content: space-evenly;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Editprofile-Categories {
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  text-decoration: none;
+  color: black;
+}
+.Editprofile-myorders {
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}
+.Editprofile-wishlist {
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}
+.Editprofile-ratings {
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}
+.Editprofile-notification {
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}
+.Editprofile-logout {
+  padding-top: 5vh;
+  padding-bottom: 1vh;
+}
+.Editprofile-topright {
+  display: flex;
+  flex-direction: row;
+}
+.Editprofile-btn button {
+  height: 5vh;
+  width: 10vh;
+  margin-left: 20vh;
+  margin-top: 12vh;
+  transition: 0.2s;
+  margin-bottom: 0.5rem;
+  border: none;
+  border: 2px solid #463e3e;
+}
+.Editprofile-btn button:hover {
+  background-color: #fbf7f7;
+  color: white;
+}
+
+.Editprofile-right-editprofile {
+  font-size: 35px;
+  margin-left: 10vh;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
+.Editprofile-right-middle {
+  margin-left: 15vh;
+}
+.Editprofile-right-textarea {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.Editprofile-input {
+  margin-left: 3vh;
+  padding-top: 2vh;
+  margin-top: 3vh;
+}
+
+.Editprofile-Info {
+  font-size: 25px;
+  margin-bottom: 3vh;
+}
+
+.Editprofile-current {
+  margin-left: 3vh;
+  margin-top: -2vh;
+  height: 2.3vh;
+  width: 15vw;
+  
+}
+.Editprofile-right-lower {
+  height: 7vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 3vh;
+}
+.Editprofile-btn-1 button{
+  height: 5vh;
+  width: 10vh;
+  transition: 0.2s;
+  margin-bottom: 0.5rem;
+  border: none;
+  border: 2px solid #463e3e;
+  background-color:rgba(255, 172, 137, 0.22); 
+}
+.Editprofile-btn-2 button{
+  height: 5vh;
+  width: 10vh;
+  margin-left:8vh;
+  transition: 0.2s;
+  margin-bottom: 0.5rem;
+  border: none;
+  border: 2px solid #463e3e;
+  background-color:rgba(255, 172, 137, 0.22); ;
+}
+.Editprofile-btn-1 button:hover {
+  background-color: #fbf7f7;
+  color: white;
+}
+.Editprofile-btn-2 button:hover {
+  background-color: #fbf7f7;
+  color: white;
+}

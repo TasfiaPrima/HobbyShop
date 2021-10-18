@@ -1,0 +1,76 @@
+.navbar{
+    width: 100vw;
+    background-color: #EDDFDF;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
+.navbar-header{
+    font-size: 2vw;
+    flex: 1;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 1vw;
+    color: black;
+    text-decoration: none;
+   
+}
+.navbar-search{
+    height:2.5vw;
+    width: 29vw;
+    display: flex;
+    align-items: center;
+    margin-left:15vw;
+    background-color: burlywood;
+    border: none;
+    border-radius:1vw;
+    outline: none;
+    
+}
+.navbar__searchInput{
+    width: 25vw;
+    height: 3vh;
+    border: none;
+    border-radius:.2vw;
+    outline: none;
+    background-color:burlywood;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2vh;
+    padding-left: 1vw;
+    color: black;
+    
+
+}
+.navbar__searchIcon{
+    width:10vw;
+    margin-left:2vw;
+    background-color:burlywood;
+
+}
+.navbar-basket{
+    
+    margin-left: 5vw;
+    padding-left: 15vw;
+    color: black;
+}
+.navbar-icons{
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.logout-navbar-search{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10vw;
+    margin-right: 25vw;
+    
+    
+}
+.navbar-login{
+    text-decoration: none;
+    margin-right: 5vw;
+}
+

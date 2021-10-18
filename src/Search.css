@@ -1,0 +1,146 @@
+.Search{
+    display:flex;
+    flex-direction:row;
+    height:85vh;
+}
+.Search-left{
+    background-color: rgba(196, 196, 196, 0.21);
+    flex:0.3;
+    margin-top: 20vh;
+    margin-bottom: 5vh;
+    margin-right: 3vw;
+    margin-left: 8vw;
+    height: 50vh;
+    
+}
+.Search-topup{
+    margin-top: -13vh; 
+}
+.Search-nameoftop{
+    font-size:20px;
+    height: 5vh;
+    width:10vw;
+    margin-left:10vw;
+    margin-top: -6vh;
+
+}
+.Search-namestyle{
+    height: 40vh;
+    margin-left: 3vw;
+    margin-top: 10vh;
+    justify-content:space-evenly;
+    font-size:30px;
+     display: flex;
+    flex-direction: column;
+}
+.Search-Categories{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+    text-decoration: none;
+    color:black;
+}
+.Search-myorders{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.Search-wishlist{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.Search-ratings{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+
+}
+.Search-notification{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.Search-logout{
+    padding-top: 5vh;
+    padding-bottom:1vh;
+}
+.Search-right{
+    flex: 0.6;
+}
+.Search-result{
+    margin-top:4vh;
+    font-size:35px;
+}
+.Search-noitems{
+    margin-top:3vh;
+    height:10vh;
+    font-size:25px;
+}
+.Search-products{
+    display:flex;
+    flex-direction:row;
+}
+.Search-product-right{
+    margin-left: 5vw;
+    width:40vw;
+
+}
+.Search-product-space{
+    font-size:25px;
+    justify-content:space-around;
+}
+.Search-image{
+    height:15vh;
+    width:15vh;
+}
+.Search-Description{
+   margin-bottom: 3vh;
+    font-size:19px;
+}
+.Search-product-btn{
+    display: flex;
+    flex-direction: row;
+}
+.Search-btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  
+    
+}
+.Search-btn-1{
+    height:5vh;
+    margin-left: 8vw;
+    margin-bottom: 1vh;
+    text-decoration: none;
+    text-decoration-color: black;
+    
+    
+   
+}
+.Search-btn-btn{
+    height:4vh;
+    background-color: #EDDFDF;
+     outline: none;
+     border: none;
+     color: black;
+     padding: .5vw;
+       
+}
+.Search-map{
+    height: 50vh;
+    overflow: scroll;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    scrollbar-color: #3690f6 #C2D2E4;
+    scrollbar-width: thin;
+    
+}
+.Search-map::-webkit-scrollbar {
+    width: 6px;
+  }
+  .Search-map::-webkit-scrollbar-track {
+    background: #101522;
+  }
+  .Search-map::-webkit-scrollbar-thumb {
+    background: #5bc0eb;
+    border-radius: 2.5vh;
+  }
+

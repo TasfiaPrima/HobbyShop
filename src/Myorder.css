@@ -1,0 +1,106 @@
+.myorder {
+  height: 82vh;
+  width: 100vw;
+  display: flex;
+}
+.myorder-name {
+  background-color: rgba(196, 196, 196, 0.21);
+  flex: 0.3;
+  margin-top: 20vh;
+  margin-bottom: 5vh;
+  margin-right: 3vw;
+  margin-left: 8vw;
+  height: 50vh;
+}
+.myorder-topup {
+  margin-top: -13vh;
+  display: flex;
+  flex-direction: row;
+}
+.myorder-nameoftop {
+  font-size: 15px;
+  margin-left: 5vh;
+  margin-top: 3vh;
+}
+.myorder-namestyle {
+  height: 40vh;
+  margin-left: 3vw;
+  margin-top: 8vh;
+  justify-content: space-evenly;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.myorder-Categories {
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  text-decoration: none;
+  color: black;
+}
+
+.myorder-myorders {
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}
+.myorder-ratings {
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}
+
+.myorder-logout {
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}
+.myorder-right {
+  margin-top: 2vh;
+  flex: 0.6;
+  height: 80vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+.myorder--right-top {
+  margin-top: 4vh;
+  font-size: 35px;
+}
+.myorder-right-lower {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10vh;
+  background-color: #eddfdf;
+}
+.Wishlist-image {
+}
+.myorder-product-right {
+  margin-left: 5vw;
+  width: 40vw;
+}
+.myorder-product-btn {
+  display: flex;
+  flex-direction: row;
+}
+.myorder-product-space {
+  font-size: 25px;
+  justify-content: space-around;
+}
+
+.myorder-rating {
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}
+.myorder-Description {
+  margin-bottom: 3vh;
+  font-size: 19px;
+}
+
+.myorder_oneOrder {
+  background-color: yellowgreen;
+  margin-bottom: 3vh;
+}
+
+.myorder__bill {
+  font-size: 3vh;
+}
+
+.myorder__ShippingAddress {
+  font-size: 3vh;
+}

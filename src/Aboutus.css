@@ -1,0 +1,49 @@
+.Aboutus-image{
+    height:120vh;
+    width:100vw;
+}
+.Aboutus-half{
+    display:flex;
+    flex-direction: column;
+    flex: 0.5;
+
+}
+.Aboutus-upper{
+    height:80vh;
+    width:100vw;
+}
+.Aboutus-bottom{
+    display:flex;
+    
+}
+.Aboutus-left{
+     flex: 0.7;
+}
+.Aboutus-About{
+    font-size: 50px;
+    margin-left: 25vw;
+    margin-top: 7vh;
+}
+.Aboutus-description{
+    font-size: 25px;
+}
+.Aboutus-right{
+    flex: 0.3;
+}
+.Aboutus-right{
+    height: 30vh;
+    margin-top: 15vh;
+
+}
+.Aboutus-desc2{
+    margin-top:3.5vh;
+    font-size: 25px;
+}
+.Aboutus-Sellbtn{
+    font-size: 50px;
+    margin-left: 5vw;
+}
+.Aboutus-selldesc2{
+    font-size: 25px;
+    margin-left:2vw;
+}

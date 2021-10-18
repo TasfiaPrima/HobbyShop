@@ -1,0 +1,29 @@
+.footer{
+    width: 100vw;
+    height: 5.7vh;
+    background-color:#D6CCCC;
+    display: flex;
+    margin-top:1vh;
+    justify-content: space-between;
+    padding-top:1vh;
+    font-family:'Courier New', Courier, monospace;
+    font-size:25px;
+}
+.footer-home{
+    margin-left: 5vw;
+    text-decoration: none;
+    color: black;
+     
+}
+.footer-about{
+   margin-left:-3vw;
+   text-decoration: none;
+   color: black;
+   
+   
+}
+.footer-contact-us{
+    margin-right: 50vw;
+    text-decoration: none;
+    color: black;
+}

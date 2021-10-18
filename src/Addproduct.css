@@ -1,0 +1,69 @@
+.Addproduct {
+    height: 82vh;
+    display: flex;
+  }
+.Addproduct-right-middle {
+  margin-top: 15vh;  
+  margin-left: 75vh;
+  padding-bottom: 5vh;
+ 
+}
+.Addproduct-right-textarea {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 5vh;
+}
+.Addproduct-Info {
+  font-size: 25px;
+  margin-bottom: 3vh;
+}
+.Addproduct-current {
+  margin-left: 3vh;
+  margin-top: -2vh;
+  height: 2.3vh;
+  width: 15vw;
+}
+.Addproduct-right-lower{
+    height: 7vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 3vh;
+}
+.Addproduct-btn-1 button {
+  height: 5vh;
+  width: 10vh;
+  transition: 0.2s;
+  margin-bottom: 0.5rem;
+  border: none;
+  border: 2px solid #463e3e;
+  background-color: rgba(255, 172, 137, 0.22);
+}
+.Addproduct-btn-2 button{
+  height: 5vh;
+  width: 10vh;
+  margin-left: 8vh;
+  transition: 0.2s;
+  margin-bottom: 0.5rem;
+  border: none;
+  border: 2px solid #463e3e;
+  background-color: rgba(255, 172, 137, 0.22);
+}
+.Addproduct-btn-1 button:hover {
+  background-color: #fbf7f7;
+  color: white;
+}
+.Addproduct-btn-2 button:hover {
+  background-color: #fbf7f7;
+  color: white;
+}
+.Addproduct-input{
+  width:40vw;
+  height:15vh;
+  background-color:rgba(196, 196, 196, 0.12);
+  font-size:2vh;
+  padding-left:1.5vw;
+  padding-top: 1.5vh;
+  margin-left:3vh;
+}

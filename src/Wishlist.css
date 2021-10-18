@@ -1,0 +1,125 @@
+.Wishlist{
+    display:flex;
+    flex-direction:row;
+    height:85vh;
+}
+.Wishlist-left{
+    background-color: rgba(196, 196, 196, 0.21);
+    flex:0.3;
+    margin-top: 20vh;
+    margin-bottom: 5vh;
+    margin-right: 3vw;
+    margin-left: 8vw;
+    height: 50vh;
+    
+}
+
+.Wishlist-topup{
+    margin-top: -13vh; 
+}
+.Wishlist-nameoftop{
+    font-size:20px;
+    height: 5vh;
+    width:10vw;
+    margin-left:10vw;
+    margin-top: -6vh;
+}
+.Wishlist-namestyle{
+    height: 40vh;
+    margin-left: 3vw;
+    margin-top: 10vh;
+    justify-content:space-evenly;
+    font-size:30px;
+    display: flex;
+    flex-direction: column;
+}
+.Wishlist-Categories{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+    text-decoration: none;
+    color:black;
+}
+.Wishlist-myorders{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+
+}
+.Wishlist-wishlist{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.Wishlist-ratings{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.Wishlist-notification{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+
+.Wishlist-right{
+    flex: 0.6;
+}
+.Wishlist-result{
+    margin-top:4vh;
+    font-size:35px;
+}
+.Wishlist-noitems{
+    margin-top:3vh;
+    height:10vh;
+    font-size:25px;
+}
+.Wishlist-products{
+    display:flex;
+    flex-direction:row;
+}
+
+.Wishlist-product-right{
+    margin-left: 5vw;
+    width:40vw;
+}
+.Wishlist-image{
+    height:15vh;
+    width:15vh;
+}
+.Wishlist-product-space{
+    font-size:25px;
+    justify-content:space-around;
+}
+
+.Wishlist-Rating{
+    padding-top: 1vh;
+    padding-bottom:1vh;
+}
+.Wishlist-btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+  
+}
+.Wishlist-btn-1{
+    height:5vh;
+    margin-left: 8vw;
+    margin-bottom: 1vh;
+    text-decoration: none;
+    text-decoration-color: black;
+    
+}
+
+.Wishlist-btn-btn{
+    height:4vh;
+    background-color: #EDDFDF;
+     outline: none;
+     border: none;
+     color: black;
+     padding: .5vw;
+}
+.Wishlist-Description{
+    margin-bottom: 3vh;
+    font-size:19px;
+}
+.Wishlist-product-btn{
+    display: flex;
+    flex-direction: row;
+}
