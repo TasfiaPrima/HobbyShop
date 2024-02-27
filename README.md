@@ -1,2 +1,2 @@
 # Hobby-shop
- A consumer-to-consumer e-commerce website that will enable people to make money online by selling products they make as a hobby. Through this website, home made food and other household commodities will be sold.
+ A consumer-to-consumer e-commerce website that will enable people to make money online by selling products they make as a hobby. Through this website, home made food and other household commodities will be sold. [Prototype link](https://www.figma.com/proto/ovmBnqIRETlDpUTIqPEg1t/The-Hobby-Shop?node-id=31-35&starting-point-node-id=313%3A6&scaling=scale-down&mode=design&t=RzVjzluNj0D94EsO-1)
